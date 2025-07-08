@@ -43,16 +43,11 @@ The dashboard helps stakeholders quickly understand the sales trends and profita
 
 ## 📂 Project Structure
 
-Supermarket-Sales-Dashboard/
-├── SupermarketSales.pbix # Power BI report file
-├── supermarket_sales.csv # Dataset source file
-├── Dashboard.jpg # Screenshot of the dashboard
-└── README.md # Project documentation (this file)
+## 🔗 Download the Files
 
-yaml
-Copy
-Edit
-
+- [Download Power BI File: SupermarketSales.pbix](https://github.com/alahmady/Supermarket-Sales-Dashboard---Power-BI-Project/blob/main/SupermarketSales.pbix)
+- [Download Dataset: supermarket_sales.csv](https://github.com/alahmady/Supermarket-Sales-Dashboard---Power-BI-Project/blob/main/supermarket_sales.csv)
+  
 ---
 
 ## 🛠️ Tools Used
@@ -73,10 +68,11 @@ Edit
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard.jpg)
+![Dashboard jpg](https://github.com/user-attachments/assets/2a693755-e0ef-477d-94fa-d485451dcf61)
+
 
 ---
 
 ## 🤝 Contact
 Created by Alahmady Ali Elghoul.  
-Let's connect on [LinkedIn](https://linkedin.com). 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/al-ahmady-ali-479a941a8). 
