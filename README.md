@@ -48,7 +48,7 @@ The dashboard helps stakeholders quickly understand the sales trends and profita
 - [Download Power BI File: SupermarketSales.pbix]
 - ([https://github.com/alahmady/Supermarket-Sales-Dashboard---Power-BI-Project/blob/main/SupermarketSales.pbix](https://github.com/AlahmadyAli/Supermarket-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard_Super%20Market_Sales.pbix))
 - [Download Dataset: supermarket_sales.csv]
-- (https://github.com/alahmady/Supermarket-Sales-Dashboard---Power-BI-Project/blob/main/supermarket_sales.csv)
+- ([https://github.com/alahmady/Supermarket-Sales-Dashboard---Power-BI-Project/blob/main/supermarket_sales.csv](https://github.com/AlahmadyAli/Supermarket-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard.jpg.jpg))
   
 ---
 
